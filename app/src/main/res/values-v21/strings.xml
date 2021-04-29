@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NotAdult">Adult: Not Age Restricted</string>
+    <string name="adult">Adult: Age Restricted</string>
+    <string name="title">Movie Name: %1$s</string>
+    <string name="rating">Rating: %1$d</string>
+    <string name="language">Language: %1$s</string>
+    <string name="movie_released">Movie Released on: %1$s</string>
+    <string name="votes">Number of votes: %1$d</string>
+</resources>
